@@ -15,3 +15,14 @@ foreach (string str in arr)
         count++;
     }
 }
+
+string[] new_arr = new string[count];
+int index = 0;
+foreach (string str in arr)
+{
+    if (str.Trim().Length <= 3)
+    {
+        new_arr[index] = str.Trim();
+        index++;
+    }
+}
