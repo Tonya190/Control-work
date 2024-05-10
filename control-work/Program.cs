@@ -6,3 +6,12 @@
 Console.WriteLine("Введите строки через запятую: ");
 string input = Console.ReadLine();
 string[] arr = input.Split(',');
+
+int count = 0;
+foreach (string str in arr)
+{
+    if (str.Trim().Length <= 3)
+    {
+        count++;
+    }
+}
