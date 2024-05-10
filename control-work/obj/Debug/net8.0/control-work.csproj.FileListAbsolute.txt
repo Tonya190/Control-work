@@ -1,0 +1,15 @@
+C:\Users\Тоня\OneDrive\Рабочий стол\control\control-work\bin\Debug\net8.0\control-work.exe
+C:\Users\Тоня\OneDrive\Рабочий стол\control\control-work\bin\Debug\net8.0\control-work.deps.json
+C:\Users\Тоня\OneDrive\Рабочий стол\control\control-work\bin\Debug\net8.0\control-work.runtimeconfig.json
+C:\Users\Тоня\OneDrive\Рабочий стол\control\control-work\bin\Debug\net8.0\control-work.dll
+C:\Users\Тоня\OneDrive\Рабочий стол\control\control-work\bin\Debug\net8.0\control-work.pdb
+C:\Users\Тоня\OneDrive\Рабочий стол\control\control-work\obj\Debug\net8.0\control-work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тоня\OneDrive\Рабочий стол\control\control-work\obj\Debug\net8.0\control-work.AssemblyInfoInputs.cache
+C:\Users\Тоня\OneDrive\Рабочий стол\control\control-work\obj\Debug\net8.0\control-work.AssemblyInfo.cs
+C:\Users\Тоня\OneDrive\Рабочий стол\control\control-work\obj\Debug\net8.0\control-work.csproj.CoreCompileInputs.cache
+C:\Users\Тоня\OneDrive\Рабочий стол\control\control-work\obj\Debug\net8.0\control-work.sourcelink.json
+C:\Users\Тоня\OneDrive\Рабочий стол\control\control-work\obj\Debug\net8.0\control-work.dll
+C:\Users\Тоня\OneDrive\Рабочий стол\control\control-work\obj\Debug\net8.0\refint\control-work.dll
+C:\Users\Тоня\OneDrive\Рабочий стол\control\control-work\obj\Debug\net8.0\control-work.pdb
+C:\Users\Тоня\OneDrive\Рабочий стол\control\control-work\obj\Debug\net8.0\control-work.genruntimeconfig.cache
+C:\Users\Тоня\OneDrive\Рабочий стол\control\control-work\obj\Debug\net8.0\ref\control-work.dll
