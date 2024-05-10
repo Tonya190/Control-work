@@ -26,3 +26,9 @@ foreach (string str in arr)
         index++;
     }
 }
+
+Console.WriteLine("Новый массив:");
+foreach (string str in new_arr)
+{
+    Console.WriteLine(str);
+}
